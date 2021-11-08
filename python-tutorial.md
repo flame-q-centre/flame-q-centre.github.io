@@ -15,4 +15,4 @@ Python is a high-level programming language that is widely used worldwide in a w
 | Lists |  Coming soon | Coming Soon|
 | For loops |  Coming soon | Coming Soon|
 | While loops |  Coming soon | Coming Soon|
-| Strings |  Coming soon | [Strings Exercises](_includes/Strings.pdf)|
+| Strings |  Coming soon | [Strings Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/_includes/Strings.pdf)|
