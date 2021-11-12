@@ -10,9 +10,9 @@ Python is a high-level programming language that is widely used worldwide in a w
 
 | Topic   |      Video      |  Exercise sheet |
 |----------|:-------------:|------:|
-| Variables,Data Types and Operators |  Coming soon | Coming Soon|
-| Conditional statements |  Coming soon | Coming Soon|
-| Lists |  Coming soon | Coming Soon|
-| For loops |  Coming soon | Coming Soon|
-| While loops |  Coming soon | Coming Soon|
-| Strings |  Coming soon | [Strings Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Strings.pdf)|
+| Variables,Data Types and Operators |  [Youtube link](https://youtu.be/B6YUCxoa25Q) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Variables.pdf)|
+| Conditional statements |  [Youtube link](https://youtu.be/3CcRhy3h_Jo) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Conditional_Statements.pdf) |
+| Lists |  [Youtube link](https://youtu.be/BEqjkiCTA34) | Coming Soon|
+| For loops |  [Youtube link](https://youtu.be/vQVmVNgK5BM) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/For_loops.pdf)|
+| While loops |  [Youtube link](https://youtu.be/RLF28iBG87U) | Coming Soon|
+| Strings |  [Youtube link](https://youtu.be/612uvrVP0ks) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Strings.pdf)|
