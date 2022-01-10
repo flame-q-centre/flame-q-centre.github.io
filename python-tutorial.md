@@ -12,7 +12,7 @@ Python is a high-level programming language that is widely used worldwide in a w
 |----------|:-------------:|------:|
 | Variables,Data Types and Operators |  [Youtube link](https://youtu.be/B6YUCxoa25Q) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Variables.pdf)|
 | Conditional statements |  [Youtube link](https://youtu.be/3CcRhy3h_Jo) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Conditional_Statements.pdf) |
-| Lists |  [Youtube link](https://youtu.be/BEqjkiCTA34) | Coming Soon|
+| Lists |  [Youtube link](https://youtu.be/BEqjkiCTA34) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Lists.pdf)|
 | For loops |  [Youtube link](https://youtu.be/vQVmVNgK5BM) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/For_loops.pdf)|
-| While loops |  [Youtube link](https://youtu.be/RLF28iBG87U) | Coming Soon|
+| While loops |  [Youtube link](https://youtu.be/RLF28iBG87U) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/While_Loops.pdf)|
 | Strings |  [Youtube link](https://youtu.be/612uvrVP0ks) | [Exercises](https://github.com/flame-q-centre/flame-q-centre.github.io/blob/main/pdfs/Strings.pdf)|
